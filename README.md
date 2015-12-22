@@ -4,6 +4,8 @@
 [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat
 )](http://mit-license.org)
 ![CocoaPods Version](https://img.shields.io/badge/pod-v0.36.4-brightgreen.svg)
+![Alt text](http://pan.baidu.com/s/1kU3f1wr)
+
 
 An easy solution to page controllers like `NetEase News`
 ## Overview
